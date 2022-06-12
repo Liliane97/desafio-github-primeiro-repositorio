@@ -1,0 +1,2 @@
+git init -> inicia um repositorio
+git add. ou git * adiciona as modificações feita nos projetos ou arquivos
